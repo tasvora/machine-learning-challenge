@@ -7,9 +7,6 @@ Saving grid2 which is of Random Forest as it has a better accuracy of .90
 ## SVM Model
 SVC model Train Acc: 0.846
 SVC model Test Acc: 0.842
-|Classification Report|
-|  | precision | recall | f1-score | support |
-| --- | --- |
 
 Classification Report
                 precision    recall  f1-score   support
